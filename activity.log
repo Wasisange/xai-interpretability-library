@@ -940,3 +940,4 @@ Commit at 2026-12-07 09:27:53: Update documentation and examples
 Commit at 2026-12-10 11:25:01: Refactor core logic for better performance
 Commit at 2026-12-16 12:41:52: Enhance visualization tools
 Commit at 2026-12-21 15:25:59: Improve model evaluation metrics
+Commit at 2026-12-21 15:26:56: Improve error handling and logging
