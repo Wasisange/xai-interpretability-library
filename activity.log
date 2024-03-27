@@ -636,3 +636,4 @@ Commit at 2024-03-21 12:52:36: Refactor core logic for better performance
 Commit at 2024-03-21 12:41:19: Update dependencies to latest versions
 Commit at 2024-03-26 11:37:31: Update documentation and examples
 Commit at 2024-03-26 09:27:24: Update README with more detailed instructions
+Commit at 2024-03-27 09:58:15: Add unit tests for new features
