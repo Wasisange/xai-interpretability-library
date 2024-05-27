@@ -657,3 +657,4 @@ Commit at 2024-04-26 19:59:45: Improve error handling and logging
 Commit at 2024-05-01 16:52:57: Improve model evaluation metrics
 Commit at 2024-05-02 14:06:10: Update documentation and examples
 Commit at 2024-05-16 15:00:56: Add unit tests for new features
+Commit at 2024-05-27 13:14:45: Clean up code and remove deprecated functions
