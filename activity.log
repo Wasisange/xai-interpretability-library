@@ -759,3 +759,4 @@ Commit at 2024-12-10 11:23:30: Clean up code and remove deprecated functions
 Commit at 2024-12-11 12:04:00: Refactor core logic for better performance
 Commit at 2024-12-12 11:58:37: Update README with more detailed instructions
 Commit at 2024-12-13 18:13:03: Implement new feature requested by users
+Commit at 2024-12-13 12:50:09: Improve error handling and logging
