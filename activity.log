@@ -65,3 +65,4 @@ Commit at 2025-01-29 10:05:23: Clean up code and remove deprecated functions
 Commit at 2025-01-29 16:30:31: Update README with more detailed instructions
 Commit at 2025-02-06 13:01:25: Update documentation and examples
 Commit at 2025-02-07 16:29:34: Enhance visualization tools
+Commit at 2025-02-07 14:57:34: Optimize memory usage in training loop
