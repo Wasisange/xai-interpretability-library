@@ -70,3 +70,4 @@ Commit at 2025-02-10 11:54:33: Add support for new data formats
 Commit at 2025-02-12 16:24:12: Fix minor bug in data processing
 Commit at 2025-02-12 12:02:28: Add unit tests for new features
 Commit at 2025-02-14 11:06:59: Update dependencies to latest versions
+Commit at 2025-02-14 10:49:15: Update README with more detailed instructions
