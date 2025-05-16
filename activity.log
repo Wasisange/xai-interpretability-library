@@ -131,3 +131,4 @@ Commit at 2025-05-12 14:51:48: Optimize memory usage in training loop
 Commit at 2025-05-13 13:37:50: Update README with more detailed instructions
 Commit at 2025-05-13 16:18:34: Optimize memory usage in training loop
 Commit at 2025-05-15 16:02:41: Clean up code and remove deprecated functions
+Commit at 2025-05-16 16:28:45: Add support for new data formats
