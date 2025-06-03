@@ -145,3 +145,4 @@ Commit at 2025-05-28 15:24:31: Clean up code and remove deprecated functions
 Commit at 2025-05-28 17:19:20: Add support for new data formats
 Commit at 2025-05-29 17:53:02: Improve error handling and logging
 Commit at 2025-06-03 11:36:39: Optimize memory usage in training loop
+Commit at 2025-06-03 10:53:35: Implement new feature requested by users
