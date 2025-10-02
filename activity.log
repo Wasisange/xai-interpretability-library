@@ -260,3 +260,4 @@ Commit at 2025-09-30 12:04:34: Improve model evaluation metrics
 Commit at 2025-10-01 16:03:11: Update README with more detailed instructions
 Commit at 2025-10-01 13:09:55: Optimize database queries
 Commit at 2025-10-01 17:51:36: Implement new feature requested by users
+Commit at 2025-10-02 14:32:51: Clean up code and remove deprecated functions
