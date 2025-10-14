@@ -275,3 +275,4 @@ Commit at 2025-10-08 15:55:46: Enhance visualization tools
 Commit at 2025-10-09 11:37:35: Refactor core logic for better performance
 Commit at 2025-10-13 18:12:26: Fix minor bug in data processing
 Commit at 2025-10-13 09:43:43: Improve model evaluation metrics
+Commit at 2025-10-14 12:08:10: Clean up code and remove deprecated functions
