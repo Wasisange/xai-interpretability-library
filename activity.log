@@ -327,3 +327,4 @@ Commit at 2025-11-28 11:27:25: Improve model evaluation metrics
 Commit at 2025-12-03 16:16:14: Improve error handling and logging
 Commit at 2025-12-05 18:16:49: Enhance visualization tools
 Commit at 2025-12-05 12:53:54: Clean up code and remove deprecated functions
+Commit at 2025-12-05 11:47:45: Add support for new data formats
