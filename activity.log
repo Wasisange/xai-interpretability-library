@@ -329,3 +329,4 @@ Commit at 2025-12-05 18:16:49: Enhance visualization tools
 Commit at 2025-12-05 12:53:54: Clean up code and remove deprecated functions
 Commit at 2025-12-05 11:47:45: Add support for new data formats
 Commit at 2025-12-08 13:25:46: Update dependencies to latest versions
+Commit at 2025-12-08 17:05:30: Add unit tests for new features
