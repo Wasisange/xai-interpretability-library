@@ -342,3 +342,4 @@ Commit at 2025-12-15 12:29:02: Add support for new data formats
 Commit at 2025-12-16 14:14:04: Update README with more detailed instructions
 Commit at 2025-12-16 16:21:35: Clean up code and remove deprecated functions
 Commit at 2025-12-16 11:39:42: Fix minor bug in data processing
+Commit at 2025-12-17 10:19:43: Fix minor bug in data processing
