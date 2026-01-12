@@ -357,3 +357,4 @@ Commit at 2026-01-05 13:40:10: Update README with more detailed instructions
 Commit at 2026-01-06 09:18:06: Improve model evaluation metrics
 Commit at 2026-01-07 11:33:56: Update README with more detailed instructions
 Commit at 2026-01-08 10:03:52: Optimize memory usage in training loop
+Commit at 2026-01-12 18:26:55: Improve error handling and logging
