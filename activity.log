@@ -393,3 +393,4 @@ Commit at 2026-03-09 10:07:32: Update README with more detailed instructions
 Commit at 2026-03-10 09:28:03: Optimize memory usage in training loop
 Commit at 2026-03-11 12:26:35: Optimize memory usage in training loop
 Commit at 2026-03-11 18:08:51: Update documentation and examples
+Commit at 2026-03-12 18:03:59: Optimize database queries
