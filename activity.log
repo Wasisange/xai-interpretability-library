@@ -802,3 +802,4 @@ Commit at 2026-03-23 16:37:05: Optimize memory usage in training loop
 Commit at 2026-03-23 14:28:40: Clean up code and remove deprecated functions
 Commit at 2026-03-23 13:07:02: Add unit tests for new features
 Commit at 2026-03-27 10:37:51: Fix minor bug in data processing
+Commit at 2026-03-30 12:26:41: Add unit tests for new features
