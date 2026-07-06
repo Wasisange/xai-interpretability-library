@@ -849,3 +849,4 @@ Commit at 2026-06-19 19:56:35: Improve error handling and logging
 Commit at 2026-06-23 16:33:20: Update README with more detailed instructions
 Commit at 2026-06-25 13:08:54: Optimize memory usage in training loop
 Commit at 2026-06-29 15:37:37: Implement new feature requested by users
+Commit at 2026-07-06 19:30:35: Add unit tests for new features
