@@ -862,3 +862,4 @@ Commit at 2026-07-23 11:47:39: Implement new feature requested by users
 Commit at 2026-07-23 09:27:32: Update documentation and examples
 Commit at 2026-07-28 10:07:22: Improve error handling and logging
 Commit at 2026-07-29 12:59:43: Optimize memory usage in training loop
+Commit at 2026-07-29 11:23:42: Clean up code and remove deprecated functions
