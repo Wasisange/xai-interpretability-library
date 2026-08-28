@@ -879,3 +879,4 @@ Commit at 2026-08-19 13:59:14: Improve model evaluation metrics
 Commit at 2026-08-24 14:02:36: Update documentation and examples
 Commit at 2026-08-27 09:00:10: Improve error handling and logging
 Commit at 2026-08-27 12:34:34: Fix minor bug in data processing
+Commit at 2026-08-28 18:37:09: Clean up code and remove deprecated functions
